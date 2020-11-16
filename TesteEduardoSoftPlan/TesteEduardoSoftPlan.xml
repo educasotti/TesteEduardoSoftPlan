@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TesteEduardoSoftPlan</name>
+    </assembly>
+    <members>
+        <member name="T:TesteEduardoSoftPlan.Controllers.TaxaJurosController">
+            <Summary>
+             Controller
+            </Summary>
+        </member>
+        <member name="M:TesteEduardoSoftPlan.Controllers.TaxaJurosController.Get">
+            <Summary>
+             Return interest tax
+            </Summary>
+            
+        </member>
+    </members>
+</doc>
